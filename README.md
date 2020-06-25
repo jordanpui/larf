@@ -5,7 +5,7 @@ Given the timing graph and the routing resources between FPGAs, it will generate
 such that the system clock period (the maximum arrival time of the sinks of the timing graph).
 More details may refer to the following papers,
 * Chak-Wa Pui and Evangeline F. Y. Young, 
-['Lagrangian Relaxation-Based Time-Division Multiplexing Optimization for Multi-FPGA Systems'](https://cwpui.com/doc/todaes_tdm.pdf), 
+['Lagrangian Relaxation-Based Time-Division Multiplexing Optimization for Multi-FPGA Systems'](https://dl.acm.org/doi/10.1145/3377551), 
 accepted by ACM Transactions on Design Automation of Electronic Systems (TODAES)
 * Chak-Wa Pui and Evangeline F. Y. Young, 
 ['Lagrangian Relaxation-Based Time-Division Multiplexing Optimization for Multi-FPGA Systems'](https://ieeexplore.ieee.org/document/8942125), 
